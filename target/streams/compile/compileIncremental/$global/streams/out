@@ -1,0 +1,38 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/02ClasesTipos.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap02/ejemplosColecciones.class, /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap03/FormasCap03.class, /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap02/ejemplosColecciones$delayedInit$body.class, /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap03/Formas$.class, /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap03/Formas.class, /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap03/Rectangle.class, /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap03/Circle.class, /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap03/Formas$delayedInit$body.class, /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes/cap02/ejemplosColecciones$.class)[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/02ClasesTipos.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set(/home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap02/ejemplosColecciones.scala, /home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/01Formas.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/02ClasesTipos.scala, /home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap02/ejemplosColecciones.scala, /home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/01Formas.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 131fb265, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk/jre/classes:/home/wizord/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/wizord/Project-sbt-scala/aprenderScala/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.585559345 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/02ClasesTipos.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/02ClasesTipos.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/02ClasesTipos.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/02ClasesTipos.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/wizord/Project-sbt-scala/aprenderScala/src/main/scala/cap03/02ClasesTipos.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, Book3, libro6, wait, $asInstanceOf, equals, impr, asInstanceOf, executionStart, printTitle, synchronized, $isInstanceOf, main, Book6, Book5, notifyAll, libro3, isInstanceOf, Book, <init>, ==, clone, ClasesTipos, $init$, toString, args, libro2, !=, getClass, title, Book4, Book2, ne, libro5, libro, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

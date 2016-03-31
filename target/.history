@@ -75,3 +75,13 @@ compile
 clean
 compile
 clean
+~ compile
+run
+compile
+run
+compile
+run
+compile
+run
+~ compile
+run
